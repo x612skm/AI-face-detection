@@ -1,6 +1,9 @@
 # AI-face-detection
-AI REAL-TIME FACE DETECTION APP USING PYTHON AND importing OpenCV
-A real-time face detection app using python as the programming language with importing open cv.
+AI REAL-TIME FACE DETECTION APP USING PYTHON AND importing OpenCV\
+A real-time face detection app using python as the programming language with importing opencv library.\
+In it we can take realtime clicks by using web-cam or also by giving command to take an image running from our files.\
+Added a waitkey so that the regular intervals of webcam clicks can be controlled.
+took loops so that multiple faces can be detected at a single time when using webcam or uploading an image from the local machine inside the code.
 
 Learning from this:
 
